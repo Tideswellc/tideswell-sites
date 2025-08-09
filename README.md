@@ -13,3 +13,4 @@ npm run dev
 - Node version: **18**
 - Build command: `npm install && npm run build`
 - Output directory: *(leave blank)*
+
